@@ -1,0 +1,11 @@
+C:\Users\omera\source\repos\sinemabilet\sinemabilet\bin\Debug\sinemabilet.exe.config
+C:\Users\omera\source\repos\sinemabilet\sinemabilet\bin\Debug\sinemabilet.exe
+C:\Users\omera\source\repos\sinemabilet\sinemabilet\bin\Debug\sinemabilet.pdb
+C:\Users\omera\source\repos\sinemabilet\sinemabilet\obj\Debug\sinemabilet.csproj.AssemblyReference.cache
+C:\Users\omera\source\repos\sinemabilet\sinemabilet\obj\Debug\sinemabilet.Form1.resources
+C:\Users\omera\source\repos\sinemabilet\sinemabilet\obj\Debug\sinemabilet.Properties.Resources.resources
+C:\Users\omera\source\repos\sinemabilet\sinemabilet\obj\Debug\sinemabilet.csproj.GenerateResource.cache
+C:\Users\omera\source\repos\sinemabilet\sinemabilet\obj\Debug\sinemabilet.csproj.CoreCompileInputs.cache
+C:\Users\omera\source\repos\sinemabilet\sinemabilet\obj\Debug\sinemabilet.exe
+C:\Users\omera\source\repos\sinemabilet\sinemabilet\obj\Debug\sinemabilet.pdb
+C:\Users\omera\source\repos\sinemabilet\sinemabilet\obj\Debug\sinemabilet.Form3.resources
